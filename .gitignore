@@ -11,3 +11,4 @@ Cargo.lock
 
 # secret
 .env
+/src/secret.key
